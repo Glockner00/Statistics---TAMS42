@@ -8,6 +8,7 @@
 ==== n=20 ====
 area = 0.175
 f_n = 7L
+table = 0.5675
 
 (iii) Repeat the whole process for n = 50, n = 500 and then for n = 10000. When n increases, is the
       estimated area getting closer to the (almost) accurate area?
