@@ -1,0 +1,26 @@
+(i)  Once you have chosen c, draw a figure containing both the region I and the rectangle.
+
+
+
+(ii) To estimate |I|, we use the Monte Carlo method. First, let n = 20 and we now generate n uniform
+     random variables in the rectangle (a, b) × (0, c). To do this, write commands in the R-file:
+
+==== n=20 ====
+area = 0.175
+
+
+(iii) Repeat the whole process for n = 50, n = 500 and then for n = 10000. When n increases, is the
+      estimated area getting closer to the (almost) accurate area?
+
+
+==== n=50 ====
+area = 0.19
+
+==== n=500 ====
+area = 0.191
+
+==== n=10000 ====
+area = 0.19175
+
+
+
